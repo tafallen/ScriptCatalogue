@@ -4,4 +4,4 @@ steps:
     azureSubscription: 'Pay-As-You-Go(053d7041-cfe1-4e67-9907-702bdc11e05a)'
     scriptType: 'pscore'
     scriptLocation: 'inlineScript'
-    inlineScript: 'az ad sp create-for-rbac --name http://testserviceprinciple33'
+    inlineScript: 'az ad sp create-for-rbac --name http://testserviceprinciple6'
